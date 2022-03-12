@@ -1,5 +1,6 @@
 # Folder
 data/
+model/
 config.ini
 *.DS_Store
 
